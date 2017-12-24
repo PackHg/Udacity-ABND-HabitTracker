@@ -1,5 +1,3 @@
 <resources>
     <string name="app_name">Habit Tracker</string>
-
-    <string name="see_logat">See logcat.</string>
 </resources>
